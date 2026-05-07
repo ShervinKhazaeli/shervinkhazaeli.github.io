@@ -1,0 +1,23 @@
+title: Shervin Khazaeli # your name (or website title) here
+logo: '/images/logo.jpeg' # your photo (or logo) here
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  Principal | Lead Data Scientist <br>
+  Ph.D., Artificial Intelligence <br>
+  AIGP Certified
+  <br><br>
+  <strong>Core Capabilities:</strong><br>
+  • Strategic Leadership<br>
+  • Production Excellence<br>
+  • AI Governance (AIGP)<br>
+  • Technical Innovation
+  <br><br>
+  <a href = "mailto: shervin.khazaeli@gmail.com">Email</a> |
+  <a href="https://scholar.google.com/citations?hl=en&user=2_GdC3kAAAAJ&view_op=list_works&sortby=pubdate">Scholar</a> |
+  <a href="https://www.linkedin.com/in/shervinkh/">LinkedIn</a> |
+  <a href="https://github.com/moderncan">Github</a> |
+  <a href="/pdf/ShervinKhazaeliCV.pdf">CV</a>
+theme: jekyll-theme-minimal
+#google_analytics: UA-216599147-1 # your Google Analytics tracking ID here
+#  <b>[2023-]</b> <a href="https://www.credly.com/badges/e7715e9e-784f-4079-ac4c-53a56961bd3f/linked_in_profile"> Machine Learning Engineer</a> <br>

@@ -1,21 +1,23 @@
 ## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Technical Innovation
 
-Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
+Designing and shipping production GenAI and agentic systems across the full stack — from RAG pipelines and LLM-as-judge evaluation to multi-agent orchestration. Pioneered novel validation methodologies including the tri-agent dialectic framework and Evaluation-Driven Development (EDD), advancing both the reliability and the architectural range of AI systems in production.
 
-**Innovation Initiatives:**
-- **Multi-Agent Systems (Google ADK)** - Production deployment of multi-agent orchestration for automated market analysis and competitive intelligence
-- **Tri-Agent Dialectic Framework** - Novel prosecutor-defender-adjudicator system for ML feature validation and data leakage prevention
-- **SEAL 6 Collaborative Methodology** - Created knowledge-sharing platform and collaborative framework to accelerate team capabilities
-- **AI-Assisted Development** - Integrated AI agents into development workflow, reducing review cycles and improving code quality
+**Production GenAI Applications:**
+- **RAG Knowledge Retrieval** — retrieval-augmented system for structured internal decision support, grounded strictly in retrieved content
+- **AI PR Review Agent** — autonomous code analysis agent reviewing pull requests and generating structured remediation, compressing review cycles from days to hours
+- **Competitive Intelligence Platform** — multi-agent system combining web retrieval, tool use, and structured LLM outputs for automated market analysis
 
-**Impact & Proof Points:**
-- 🤖 **Production multi-agent systems deployed** and actively serving clients
-- 🔍 Novel validation approaches **reducing review cycles** and increasing confidence
-- 🎯 Automated **edge case detection** preventing data leakage and model errors
-- 📊 Shaping **product roadmap** for next-generation agentic AI applications
+**Agentic Architecture Patterns:**
+- **Prompt Chaining** — water quality analysis pipeline
+- **Parallelization** — treatment plant monitoring across concurrent agents
+- **Orchestrator-Worker** — drought management with dynamic task dispatch
+- **Evaluator-Optimizer** — treatment process optimization with feedback loops
 
-**Featured Innovations:**
-- **Competitive Intelligence System** - Multi-agent orchestration for automated market monitoring and analysis
-- **ML Feature Validation Framework** - Tri-agent dialectic approach for rigorous feature engineering review
-- **Data Leakage Prevention** - Agent-based system for detecting potential data leakage in ML pipelines
-- **SEAL 6 Knowledge Platform** - Collaborative methodology platform for team learning and capability development
+**Validation & Evaluation Frameworks:**
+- **Tri-Agent Dialectic** — prosecutor / defender / adjudicator architecture for ML feature validation and data-leakage detection using adversarial prompting and structured output contracts
+- **Evaluation-Driven Development (EDD)** — every agent shipped with a weighted eval rubric, labeled reference dataset (30%+ adversarial cases), and an LLM-as-judge runner gating readiness
+- **Multi-Provider LLM Integration** — Anthropic Claude, Google Gemini, OpenAI across production systems
+
+**Development Methodology:**
+- **SEAL 6** — collaborative knowledge-sharing platform shaping the agentic AI product roadmap
+- **AI-Assisted Development** — integrated AI agents into the development workflow; achieved Google MLOps maturity (experimentation-operations symmetry)

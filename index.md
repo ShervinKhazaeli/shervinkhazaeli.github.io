@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px;">
     <p style="font-size: 16px; line-height: 1.6; margin-bottom: 0;">
-      Senior AI leader bridging technical expertise with business strategy to build <strong>trustworthy AI systems at scale</strong>. Leading and mentoring team of 4+ data scientists and AI engineers while orchestrating cross-functional initiatives across Product, Engineering, and MLOps—delivering governed production AI solutions across 65+ critical infrastructure clients.
+      Principal-level AI leader with 10+ years architecting production-grade ML and <strong>GenAI systems at scale</strong>. Experienced leading cross-functional teams while independently designing and shipping full-stack agentic applications — from RAG pipelines and LLM-as-judge evaluation to multi-agent orchestration — delivered across 65+ critical infrastructure clients with $60M+ in operational impact.
     </p>
     <!-- <p style="font-size: 14.5px; color: #555; font-style: italic; line-height: 1.5;">
       Building scalable, governed AI systems that drive measurable impact
@@ -25,9 +25,9 @@
       Strategic Leadership & Team Development
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>Leading and mentoring team of 4+ data scientists and AI engineers</li>
-      <li>Cross-functional strategic planning and AI product roadmap</li>
-      <li>Building trustworthy AI systems at scale with enterprise governance</li>
+      <li>Cross-functional team leadership across Engineering, Product, and MLOps</li>
+      <li>AI product roadmap from research to production</li>
+      <li>SEAL 6 collaborative methodology &amp; knowledge-sharing platform</li>
     </ul>
     <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
@@ -40,9 +40,9 @@
       Production Excellence & MLOps
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>GCP Vertex AI platform architecture</li>
-      <li>CI/CD pipelines (4-6 weeks → same-day deployment)</li>
-      <li>End-to-end ML development standards</li>
+      <li>GCP Vertex AI platform: 65+ clients, $60M+ in cost savings</li>
+      <li>CI/CD pipelines (4–6 weeks → same-day deployment)</li>
+      <li>3 production GenAI apps: RAG knowledge retrieval, AI PR review agent, competitive intelligence platform</li>
     </ul>
     <a href="/pages/ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
@@ -56,8 +56,8 @@
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>AIGP-certified governance frameworks</li>
-      <li>Enterprise controls & regulatory compliance</li>
-      <li>Traceability, auditability, validation gates</li>
+      <li>Traceability, auditability, validation gates, incident response</li>
+      <li>Regulated-industry readiness built into the ML lifecycle</li>
     </ul>
     <a href="/pages/ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
@@ -70,9 +70,9 @@
       Technical Innovation
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>Multi-agent systems using Google Agent Development Kit</li>
-      <li>SEAL 6 collaborative methodology</li>
-      <li>Novel validation frameworks (tri-agent dialectic)</li>
+      <li>Tri-agent dialectic: adversarial LLM-as-judge for ML feature validation</li>
+      <li>Evaluation-Driven Development (EDD) with automated eval runners</li>
+      <li>Multi-provider LLM integration: Anthropic Claude, Google Gemini, OpenAI</li>
     </ul>
     <a href="/pages/innovation" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →

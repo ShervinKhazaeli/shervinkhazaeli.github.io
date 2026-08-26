@@ -1,4 +1,4 @@
-## [Shervin's Portfolio](https://moderncan.github.io) / Strategic Leadership & Team Development
+## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Strategic Leadership & Team Development
 
 Leading and mentoring team of 4+ data scientists and AI engineers, orchestrating cross-functional initiatives across Engineering, Product, and MLOps to build trustworthy AI systems at scale. Established strategic frameworks for research-to-production transition and built knowledge-sharing platforms that accelerate team capabilities and deliver measurable business impact.
 

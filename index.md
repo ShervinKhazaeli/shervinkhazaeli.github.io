@@ -1,4 +1,4 @@
-# [Shervin's Portfolio](https://moderncan.github.io)
+# [Shervin's Portfolio](https://shervinkhazaeli.github.io)
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px;">

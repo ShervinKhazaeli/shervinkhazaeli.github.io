@@ -1,4 +1,4 @@
-## [Shervin's Portfolio](https://moderncan.github.io) / AI Governance & Risk Management
+## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / AI Governance & Risk Management
 
 Pioneered enterprise AI governance framework integrating traceability, validation gates, auditability, and incident response directly into the ML lifecycle. Established AIGP-certified approach to build governance controls from scratch for critical infrastructure applications.
 

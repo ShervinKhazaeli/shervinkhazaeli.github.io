@@ -1,4 +1,4 @@
-## [Shervin's Portfolio](https://moderncan.github.io) / Production Excellence & MLOps
+## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Production Excellence & MLOps
 
 Architected and scaled enterprise ML platform serving 65+ critical infrastructure clients, driving $60M+ in operational cost savings through predictive asset failure modeling, anomaly detection, and infrastructure risk assessment. Led technical implementation of production ML systems on GCP Vertex AI, accelerating deployment velocity from 4-6 weeks to same-day releases.
 

@@ -1,4 +1,4 @@
-## [Shervin's Portfolio](https://moderncan.github.io) / Technical Innovation
+## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Technical Innovation
 
 Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
 

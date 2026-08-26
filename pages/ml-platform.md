@@ -1,20 +1,14 @@
 ## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Production Excellence & MLOps
 
-Architected and scaled enterprise ML platform serving 65+ critical infrastructure clients, driving $60M+ in operational cost savings through predictive asset failure modeling, anomaly detection, and infrastructure risk assessment. Led technical implementation of production ML systems on GCP Vertex AI, accelerating deployment velocity from 4-6 weeks to same-day releases.
+Architected and scaled enterprise ML platform serving 65+ critical infrastructure clients, driving $60M+ in operational cost savings through predictive asset failure modeling, anomaly detection, and infrastructure risk assessment. Built end-to-end on GCP Vertex AI with BigQuery as the primary data layer, accelerating deployment velocity from 4–6 weeks to same-day releases.
 
 **Platform Architecture:**
-- **GCP Vertex AI Platform** - Built scalable ML infrastructure on Google Cloud Platform enabling enterprise-grade model deployment and monitoring
-- **CI/CD Pipeline Design** - Established end-to-end ML development standards with version control, automated validation, and deployment templates
-- **Deployment Velocity** - Transformed deployment process: **4-6 weeks → same-day releases** while maintaining model governance and quality
-- **MLOps Maturity** - Achieved Google MLOps maturity level with experimentation-operations symmetry and AI-assisted development practices
+- **GCP Vertex AI Platform** — Scalable ML infrastructure enabling enterprise-grade model deployment, monitoring, and lifecycle governance
+- **CI/CD Pipeline Design** — Automated validation pipelines, model versioning, and deployment templates maintaining quality at speed
+- **Deployment Velocity** — Transformed deployment process: **4–6 weeks → same-day releases**
+- **MLOps Maturity** — Achieved Google MLOps maturity (experimentation-operations symmetry) with AI-assisted development practices
 
-**Impact & Proof Points:**
-- 💰 **$60M+ in operational cost savings** across client base
-- 📈 **65+ enterprise clients** (grown from initial pilot)
-- ⚡ **Same-day deployment capability** with maintained quality standards
-- 🔧 Improved developer productivity through standardized ML workflows
-
-**Production DSaaS Solutions:**
+**Production Solutions:**
 
 - **[Inspection Optimizer](/pages/ml-platform/inspection_optimizer.md)** - Advanced statistical analysis to optimize field inspections for **60+ water utilities** across USA. Optimizes number and location of field verifications for Lead and Copper Rule Revisions (LCRR) compliance. *Deployed as freemium and paid versions.*
 
@@ -24,6 +18,8 @@ Architected and scaled enterprise ML platform serving 65+ critical infrastructur
 
 - **[Water Main Failure Prediction](/pages/ml-platform/water_main_failure.md)** - Predictive analytics for pipe-break forecasting in water distribution networks. Enables proactive maintenance and reduces infrastructure failures.
 
-- **[Blockage Detection](/pages/ml-platform/blockage_detection.md)** - ML solution for detecting blockages in sewer systems. Real-time monitoring and anomaly detection for wastewater infrastructure.
+- **[Blockage Detection](/pages/ml-platform/blockage_detection.md)** - Near-real-time anomaly detection across a water sewage sensor network (60+ sensors, U.S.-wide), with monitoring dashboards for transparency and model lifecycle governance.
 
 - **[Water Pipe Replacement Optimization](/pages/ml-platform/pipe_replacement.md)** - Data-driven planning for water pipe replacement programs. Balances risk, budget, and operational constraints.
+
+- **Toll Auditing Framework** - Computer-vision-enabled toll auditing system using video footage and ML for tolling events, deployed on GCP to meet scalability and latency requirements with auditability measures for regulatory compliance.

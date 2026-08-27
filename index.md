@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px;">
     <p style="font-size: 16px; line-height: 1.6; margin-bottom: 0;">
-      Principal-level AI leader with 10+ years architecting production-grade ML and <strong>GenAI systems at scale</strong>. Experienced leading cross-functional teams while independently designing and shipping full-stack agentic applications — from RAG pipelines and LLM-as-judge evaluation to multi-agent orchestration — delivered across 65+ critical infrastructure clients with $60M+ in operational impact.
+      Principal-level AI leader with 10+ years architecting production-grade <strong>ML</strong> and <strong>GenAI systems at scale</strong>. Experienced leading cross-functional teams while independently designing and shipping full-stack agentic applications: from RAG pipelines and LLM-as-judge evaluation to multi-agent orchestration; delivered across 65+ critical infrastructure clients with $60M+ in operational impact.
     </p>
     <!-- <p style="font-size: 14.5px; color: #555; font-style: italic; line-height: 1.5;">
       Building scalable, governed AI systems that drive measurable impact

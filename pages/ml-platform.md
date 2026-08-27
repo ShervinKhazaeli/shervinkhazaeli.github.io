@@ -10,7 +10,7 @@ Architected and scaled enterprise ML platform serving 65+ critical infrastructur
 
 **Production Solutions:**
 
-- **[Inspection Optimizer](/pages/ml-platform/inspection_optimizer.md)** - Advanced statistical analysis to optimize field inspections for **60+ water utilities** across USA. Optimizes number and location of field verifications for Lead and Copper Rule Revisions (LCRR) compliance. *Deployed as freemium and paid versions.*
+- **[Inspection Optimizer](/pages/ml-platform/inspection_optimizer.md)** - Advanced statistical analysis to optimize field inspections for **20+ water utilities** across USA. Optimizes number and location of field verifications for Lead and Copper Rule Revisions (LCRR) compliance. *Deployed as freemium and paid versions.*
 
 - **[LeadCAST Predict](/pages/ml-platform/leadcast_predict.md)** - End-to-end machine learning solution to predict water service lines' materials across **45+ water utilities**. Production ML models for regulatory compliance with LCRR requirements.
 

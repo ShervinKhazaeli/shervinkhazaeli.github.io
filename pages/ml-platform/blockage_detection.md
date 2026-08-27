@@ -1,6 +1,6 @@
 ## [Shervin's Portfolio](https://shervinkhazaeli.github.io) / Blockage Detection
 
-**DaaS description:** This Data-Science-As-Service (DSaaS) provides an end-to-end machine learning solution for detecting and predicting blockages in sewer systems. The system analyzes historical maintenance data, flow patterns, and infrastructure characteristics to identify high-risk locations and enable proactive maintenance interventions, reducing emergency responses and service disruptions.
+**DaaS description:** This Data-Science-As-Service (DSaaS) provides a near-real-time anomaly detection solution across a water sewage sensor network (60+ sensors, U.S.-wide). The system analyzes historical maintenance data, flow patterns, and infrastructure characteristics to identify high-risk locations and enable proactive maintenance interventions. Includes monitoring dashboards for transparency, stakeholder trust, and model lifecycle governance.
 
 **Funding:** Trinnex proprietary
 

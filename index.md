@@ -27,7 +27,7 @@
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>Cross-functional team leadership across Engineering, Product, and MLOps</li>
       <li>AI product roadmap from research to production</li>
-      <li>SEAL 6 collaborative methodology &amp; knowledge-sharing platform</li>
+      <li>Knowledge-sharing platform to scale team AI capabilities</li>
     </ul>
     <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
@@ -42,7 +42,7 @@
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>GCP Vertex AI platform: 65+ clients, $60M+ in cost savings</li>
       <li>CI/CD pipelines (4–6 weeks → same-day deployment)</li>
-      <li>3 production GenAI apps: RAG knowledge retrieval, AI PR review agent, competitive intelligence platform</li>
+      <li>Production GenAI apps: knowledge retrieval, code review, market intelligence</li>
     </ul>
     <a href="/pages/ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
@@ -56,7 +56,7 @@
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>AIGP-certified governance frameworks</li>
-      <li>Traceability, auditability, validation gates, incident response</li>
+      <li>End-to-end controls: traceability, validation gates, and incident response</li>
       <li>Regulated-industry readiness built into the ML lifecycle</li>
     </ul>
     <a href="/pages/ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
@@ -70,8 +70,8 @@
       Technical Innovation
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>Tri-agent dialectic: adversarial LLM-as-judge for ML feature validation</li>
-      <li>Evaluation-Driven Development (EDD) with automated eval runners</li>
+      <li>Adversarial multi-agent validation for ML feature quality</li>
+      <li>Automated quality gates and eval runners for every AI agent shipped</li>
       <li>Multi-provider LLM integration: Anthropic Claude, Google Gemini, OpenAI</li>
     </ul>
     <a href="/pages/innovation" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
